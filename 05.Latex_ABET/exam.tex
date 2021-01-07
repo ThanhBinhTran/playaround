@@ -1,0 +1,170 @@
+	\question (L.O.4) Việc tăng kích thước block sẽ ảnh hưởng:
+\choice
+{Độ rộng trường TAG tăng}
+{Độ rộng trường INDEX tăng}
+{Độ rộng trường OFFSET không đổi}
+{\answ{Thời gian xử lý việc Miss Penalty tăng}}
+
+\question (L.O.4) Việc tăng số ánh xạ đa phần (K-way set associative) khi kích thước bộ nhớ đệm và block không đổi sẽ ảnh hưởng:
+\choice
+{\answ{Độ rộng trường TAG tăng}}
+{Độ rộng trường INDEX Tăng}
+{Độ rộng trường OFFSET không đổi}
+{Thời gian xử lý việc Miss Penalty tăng}
+
+\uplevel{\textbf{Thông tin sau dùng cho các câu hỏi từ~\ref{2019CS_M-s} đến~\ref{2019CS_M-e}}}
+Một hệ thống máy tính có CPU quản lý không gian bộ nhớ 32 bits, sử dụng 128 KB bộ nhớ đệm với block có kích thước 8 words. Cấu hình theo 4-way set associative 
+\question (L.O.4) Xác định độ rộng của trường tag, index, offset:
+\onech
+{17-12-3}
+{\answ{17-10-5}}
+{15-12-5}
+{19-10-3}
+\label{2019CS_M-s}
+
+\question (L.O.4) Biến x nằm ở địa chỉ vật lý 19012021 (DEC) xác định giá trị của của trường tag, index, offset:
+\onech
+{\answ{580, 205, 21}}
+{190, 120, 21}
+{12802, 257, 1}
+{580, 822, 5}
+\label{2019CS_M-e}
+
+\uplevel{\textbf{Thông tin sau dùng cho các câu hỏi từ~\ref{2019CS_M1-s} đến~\ref{2019CS_M1-e}}}
+Một bộ xử lý hoạt động với xung clock có tần số 4 GHz, sử dụng bộ nhớ đệm lệnh có tỉ lệ trật là 5\%, bộ nhớ đệm dữ liệu có tỉ lệ trật là 10\%. Cho biết CPI khi trúng 100\% là 2, các lệnh truy xuất dữ liệu chiếm tỉ lệ 25\%, thao tác chép một khối từ bộ nhớ chính vào đệm tiêu tốn mất 40.5 ns.
+%Miss penalty = 40.5/0.25 = 160 cycles.
+%CPI = 2 + 160 + 25/100*160 = 202 cycles
+\question (L.O.4) Tính CPI trung bình khi không dùng đệm
+\onech
+{162}
+{14}
+{\answ{202}}
+{52.625}
+\label{2019CS_M1-s}
+
+
+%CPI = 2 + 5/100*160 + 10/100*25/100*160 = 202 cycles	
+\question (L.O.4) Tính CPI trung bình khi có dùng đệm.
+\onech
+{162}
+{\answ{14}}
+{202}
+{52.625}
+
+\label{2019CS_M1-e}
+
+%	\question Chọn phát biểu \textbf{ĐÚNG} về RAM 'DDR3-1066':
+
+%	\fourch
+%	{\answ{Đây là một loại RAM động đồng bộ (SDRAM)}}
+%	{Tần số xung nhịp lớn nhất cấp cho RAM này là 1066 MHz}
+%	{RAM này cần chu kỳ làm tươi để bảo toàn mức luận lý 0}
+%	{RAM thế hệ mới này có thời gian truy xuất dữ liệu nhanh hơn SRAM}
+
+\question (L.O.4) Chọn phát biểu \textbf{SAI} về hệ thống bộ nhớ phân cấp:
+
+\fourch
+{Card mạng tốc độ cao 1Gbps không nối trực tiếp vào bus tốc độ cao}
+{Thanh ghi là một phần của hệ thống bộ nhớ}
+{\answ{Chỉ có thể có bộ nhớ đệm cấp 1 (L1) và bộ nhớ đệm cấp 2 (L2) trong hệ thống bộ nhớ}}
+{Bộ nhớ chính RAM được nối trực tiếp vào bus tốc độ cao}
+
+%	\question Chọn phát biểu \textbf{ĐÚNG} khi nâng cấp máy tính có 2 khe cắm RAM, đang sử dụng 1 thanh RAM 2GB loại 'DDR3-1333' :
+
+%	\fourch{Không gắn thêm được 1 thanh RAM 1GB DDR3-1333 vì khác dung lượng}
+%	{Có thể gắn thêm 1 thanh RAM 2GB DDR4-3200}
+%	{Có thể gắn thêm 1 thanh RAM 2GB DDR3-1066 mà vẫn giữ nguyên tần số giao tiếp RAM}
+%	{\answ{Có thể gắn thêm 1 thanh RAM 2GB DDR3-1600 mà vẫn giữ nguyên tần số giao tiếp RAM}}
+
+\question (L.O.4) Chọn phát biểu đúng về bộ nhớ đệm.
+
+\fourch
+{Bộ nhớ đệm càng lớn, hệ thống càng nhanh}
+{Bộ nhớ đệm càng nhiều cấp, hệ thống càng nhanh}
+{Khi Miss bộ nhớ đệm, hệ thống chỉ chuyển 1 biến/lệnh lên bộ nhớ đệm}
+{\answ{Chức năng bộ nhớ đệm là giúp giảm thời gian khi truy xuất lệnh dữ liệu}}
+
+\uplevel{\textbf{Thông tin sau dùng cho các câu hỏi từ~\ref{2020CS_M2-s} đến~\ref{2020CS_M2-e}}}
+Một bộ xử lý hoạt động với xung clock có tần số 2 GHz, tỉ lệ miss bộ nhớ đệm là 10\%, thời gian truy xuất bộ nhớ chính là 100ns. CPI lý tưởng là 1.
+%Miss penalty MEMORY= 100/0.5 = 200 cycles.
+%CPI = 1 + 200*10/100 = 21 cycles
+\question (L.O.4) Xác định CPI của hệ thống.
+\onech
+{\answ{21}}
+{201}
+{101}
+{11}
+\label{2020CS_M2-s}
+
+%Miss penalty L2= 20/0.5 = 4 cycles
+%CPI = 1 + 40*10/100 + 5/100*200= 15 cycles	
+\question (L.O.4) Người ta thêm bộ nhớ đệm L2 với mục đính cải tiến hệ thống. Biết thời gian truy xuất L2 là 20 ns, tỉ lệ miss toàn cục của L2 là 5\%. Việc thêm L2 làm cho hệ thống hiệu quả?
+\choice
+{Gấp 2.5 lần so với ban đầu}
+{\answ{Gấp 1.4 lần so với ban đầu}}
+{Không hiệu quả}
+{Chưa thể xác định }
+
+\label{2020CS_M2-e}
+
+	\question (L.O.2) Một lệnh rẽ nhánh có điều kiện thì có thể rẽ tối đa đến:
+\choice
+{Bất kì vị trí nào trong chương trình}
+{Bất kì vị trí nào trong bộ nhớ}
+{\answ{Trong khoảng $\pm 2^{17}$ byte từ địa chỉ rẽ nhánh hiện tại}}
+{Trong khoảng $\pm 2^{16}$ lệnh từ lệnh rẽ nhánh hiện tại}
+
+\uplevel{\textbf{Đoạn chương trình sau dùng cho các câu hỏi từ~\ref{S_CallingFunction} đến~\ref{E_CallingFunction}}}
+\begin{lstlisting}
+	jal  funcX
+	addi $v0, $zero, 10   # terminate program
+	syscall               		
+	funcX: addi $a0, $a0, 1
+	jr   $ra
+\end{lstlisting}
+
+Biết rằng đoạn code trên bắt đầu từ địa chỉ\lstinline| 0x00040000|
+
+\question (L.O.2) Xác định giá trị thanh ghi \$ra khi chương trinh thực thi xong lệnh ở dòng thứ 1?
+\label{S_CallingFunction}
+\onech
+{\lstinline|0x00040000|}
+{\answ{\lstinline|0x00040004|}}
+{\lstinline|0x0004000C|}
+{\lstinline|0x00040010|}
+
+\question (L.O.2) Xác định giá trị thanh ghi PC (program counter) khi chương trinh thực thi xong lệnh ở dòng thứ 1?
+\label{E_CallingFunction}
+\onech
+{\lstinline|0x00040000|}
+{\lstinline|0x00040004|}
+{\answ{\lstinline|0x0004000C|}}
+{\lstinline|0x00040010|}
+
+\question (L.O.2) Cho biết giá trị 0x00CA2021 lưu tại địa chỉ 0x10000000 theo kiểu little-endian. Hỏi giá trị tại ô nhớ có địa chỉ 0x10000003 là bao nhiêu?
+\onech
+{\answ{\lstinline|0x00|}}
+{\lstinline|0xCA|}
+{\lstinline|0x20|}
+{\lstinline|0x21|}
+
+\question (L.O.2) Biết giá trị đang chứa trong thanh ghi \$s0 là 0xFFFFCA19. Muốn biến đối giá trị thanh ghi \$s0 thành 0x0000CA19 thì có thể làm theo cách?
+\choice
+{\lstinline|addi $s0, $s0, 0xFFFF|}
+{\lstinline|ori    $s0, $s0, 0xFFFF|}
+{\answ{ \lstinline|andi $s0, $s0, 0xFFFF|}}
+{\lstinline|xori  $s0, $s0, 0xFFFF|}
+
+\question (L.O.2) Lệnh giả {\ttfamily \textbf{li} \$v0, 10} tương đương với lệnh nào sau đây?
+\choice
+{\lstinline|addi $v0, $zero, 10|}
+{\lstinline|ori   $v0, $zero, 10|}
+{\lstinline|xori $v0, $zero, 10|}
+{\answ{Tất cả đều đúng}}
+
+\question (L.O.2) Chọn phát biểu đúng về lệnh jump
+\fourch
+{Nhảy đến bất kỳ vị trí nào trong chương trình}
+{Nhảy đến bất kỳ vị trí nào trong bộ nhớ lệnh (instruction memory)}
+{Chỉ nhảy trong khoảng $2^{26}$ lệnh tính từ câu lệnh jump.}
+{\answ{Chỉ nhảy trong vùng được xác định bởi 4-bit cao PC cũ.}}

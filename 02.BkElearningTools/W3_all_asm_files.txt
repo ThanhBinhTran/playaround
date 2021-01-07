@@ -1,0 +1,983 @@
+C:\Users\Binh Tran\Downloads\KTMTW3\1449529-Phạm Bùi Hải Thanh\Bai1A.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1449529-Phạm Bùi Hải Thanh\Bai1B.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1449529-Phạm Bùi Hải Thanh\Bai1C.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1449529-Phạm Bùi Hải Thanh\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1449529-Phạm Bùi Hải Thanh\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1449529-Phạm Bùi Hải Thanh\Bai4A.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1449529-Phạm Bùi Hải Thanh\Bai4B.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1710162-Nguyễn Quang Lâm\Lab2_1710162\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1710162-Nguyễn Quang Lâm\Lab2_1710162\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1710162-Nguyễn Quang Lâm\Lab2_1710162\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1710162-Nguyễn Quang Lâm\Lab2_1710162\Bai2a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1710162-Nguyễn Quang Lâm\Lab2_1710162\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1710162-Nguyễn Quang Lâm\Lab2_1710162\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1710162-Nguyễn Quang Lâm\Lab2_1710162\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1811486-Trần Long Ẩn\1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1811486-Trần Long Ẩn\1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1811486-Trần Long Ẩn\1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1811486-Trần Long Ẩn\2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1811486-Trần Long Ẩn\3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1811486-Trần Long Ẩn\4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1811486-Trần Long Ẩn\4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812336-Bùi Đức Huy\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812336-Bùi Đức Huy\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812336-Bùi Đức Huy\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812336-Bùi Đức Huy\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812336-Bùi Đức Huy\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812336-Bùi Đức Huy\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812336-Bùi Đức Huy\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812478-Vũ Xuân Hùng\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812478-Vũ Xuân Hùng\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812478-Vũ Xuân Hùng\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812478-Vũ Xuân Hùng\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812478-Vũ Xuân Hùng\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812478-Vũ Xuân Hùng\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812478-Vũ Xuân Hùng\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812658-Nguyễn Hoàng Khoa\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812658-Nguyễn Hoàng Khoa\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812658-Nguyễn Hoàng Khoa\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812658-Nguyễn Hoàng Khoa\bai2a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812658-Nguyễn Hoàng Khoa\bai3a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812658-Nguyễn Hoàng Khoa\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812915-Nguyễn Phi Long\Bai_1_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812915-Nguyễn Phi Long\Bai_1_c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812915-Nguyễn Phi Long\Bai_2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812915-Nguyễn Phi Long\Bai_3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812915-Nguyễn Phi Long\Bai_4_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812915-Nguyễn Phi Long\Bai_4_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1812915-Nguyễn Phi Long\Bài_1_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1813449-Nguyễn Sinh Nhựt\lab2_1813449\mips1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1813449-Nguyễn Sinh Nhựt\lab2_1813449\mips1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1813449-Nguyễn Sinh Nhựt\lab2_1813449\mips1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1813449-Nguyễn Sinh Nhựt\lab2_1813449\mips2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1813449-Nguyễn Sinh Nhựt\lab2_1813449\mips3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1813449-Nguyễn Sinh Nhựt\lab2_1813449\mips4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1813449-Nguyễn Sinh Nhựt\lab2_1813449\mips4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814038-Võ Công Thành\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814038-Võ Công Thành\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814038-Võ Công Thành\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814038-Võ Công Thành\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814038-Võ Công Thành\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814038-Võ Công Thành\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814038-Võ Công Thành\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814096-Nguyễn Hữu Thắng\bai1.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814096-Nguyễn Hữu Thắng\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814096-Nguyễn Hữu Thắng\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814096-Nguyễn Hữu Thắng\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814096-Nguyễn Hữu Thắng\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814096-Nguyễn Hữu Thắng\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814096-Nguyễn Hữu Thắng\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814361-Huỳnh Chí Toàn\bai1.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814361-Huỳnh Chí Toàn\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814361-Huỳnh Chí Toàn\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814492-Võ Trần Duy Trọng\bai1.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814492-Võ Trần Duy Trọng\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814492-Võ Trần Duy Trọng\bai4.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814492-Võ Trần Duy Trọng\bt2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814812-Lê Tuấn Vũ\lab2_le_tuan_vu_1814812\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814812-Lê Tuấn Vũ\lab2_le_tuan_vu_1814812\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814812-Lê Tuấn Vũ\lab2_le_tuan_vu_1814812\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814812-Lê Tuấn Vũ\lab2_le_tuan_vu_1814812\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814812-Lê Tuấn Vũ\lab2_le_tuan_vu_1814812\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814812-Lê Tuấn Vũ\lab2_le_tuan_vu_1814812\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1814812-Lê Tuấn Vũ\lab2_le_tuan_vu_1814812\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910006-Nguyễn Ngọc Thái An\ Lab2_1910006\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910006-Nguyễn Ngọc Thái An\ Lab2_1910006\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910006-Nguyễn Ngọc Thái An\ Lab2_1910006\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910006-Nguyễn Ngọc Thái An\ Lab2_1910006\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910006-Nguyễn Ngọc Thái An\ Lab2_1910006\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910006-Nguyễn Ngọc Thái An\ Lab2_1910006\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910006-Nguyễn Ngọc Thái An\ Lab2_1910006\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910038-Lý Thanh Bách\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910038-Lý Thanh Bách\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910038-Lý Thanh Bách\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910038-Lý Thanh Bách\Bai2a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910038-Lý Thanh Bách\Bai3a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910038-Lý Thanh Bách\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910038-Lý Thanh Bách\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910060-Nhan Minh Châu\mips1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910060-Nhan Minh Châu\mips1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910060-Nhan Minh Châu\mips1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910060-Nhan Minh Châu\mips2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910060-Nhan Minh Châu\mips3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910060-Nhan Minh Châu\mips4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910060-Nhan Minh Châu\mips4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910076-Nguyễn Hoàng Danh\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910076-Nguyễn Hoàng Danh\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910076-Nguyễn Hoàng Danh\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910076-Nguyễn Hoàng Danh\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910076-Nguyễn Hoàng Danh\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910076-Nguyễn Hoàng Danh\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910076-Nguyễn Hoàng Danh\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910086-Lương Minh Duy\Lương Minh Duy 1910086 1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910086-Lương Minh Duy\Lương Minh Duy 1910086 1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910086-Lương Minh Duy\Lương Minh Duy 1910086 1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910086-Lương Minh Duy\Lương Minh Duy 1910086 2a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910086-Lương Minh Duy\Lương Minh Duy 1910086 3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910086-Lương Minh Duy\Lương Minh Duy 1910086 4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910086-Lương Minh Duy\Lương Minh Duy 1910086 4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910094-Trần Đức Duy\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910094-Trần Đức Duy\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910094-Trần Đức Duy\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910094-Trần Đức Duy\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910094-Trần Đức Duy\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910094-Trần Đức Duy\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910094-Trần Đức Duy\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910101-Ngô Lê Quốc Dũng\Lab2_1910101\Bai1.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910101-Ngô Lê Quốc Dũng\Lab2_1910101\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910101-Ngô Lê Quốc Dũng\Lab2_1910101\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910101-Ngô Lê Quốc Dũng\Lab2_1910101\Bai4.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910110-Huỳnh Thành Đạt\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910110-Huỳnh Thành Đạt\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910110-Huỳnh Thành Đạt\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910110-Huỳnh Thành Đạt\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910110-Huỳnh Thành Đạt\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910110-Huỳnh Thành Đạt\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910110-Huỳnh Thành Đạt\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910113-Nguyễn Thành Đạt\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910113-Nguyễn Thành Đạt\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910113-Nguyễn Thành Đạt\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910113-Nguyễn Thành Đạt\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910113-Nguyễn Thành Đạt\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910113-Nguyễn Thành Đạt\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910113-Nguyễn Thành Đạt\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910123-Nguyễn Phùng Hải Đăng\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910123-Nguyễn Phùng Hải Đăng\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910123-Nguyễn Phùng Hải Đăng\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910123-Nguyễn Phùng Hải Đăng\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910123-Nguyễn Phùng Hải Đăng\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910123-Nguyễn Phùng Hải Đăng\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910123-Nguyễn Phùng Hải Đăng\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910137-Nguyễn Huỳnh Đức\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910137-Nguyễn Huỳnh Đức\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910137-Nguyễn Huỳnh Đức\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910137-Nguyễn Huỳnh Đức\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910137-Nguyễn Huỳnh Đức\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910137-Nguyễn Huỳnh Đức\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910137-Nguyễn Huỳnh Đức\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910198-Tô Hòa\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910198-Tô Hòa\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910198-Tô Hòa\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910198-Tô Hòa\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910198-Tô Hòa\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910198-Tô Hòa\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910198-Tô Hòa\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910202-Lê Gia Huy\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910202-Lê Gia Huy\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910202-Lê Gia Huy\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910202-Lê Gia Huy\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910202-Lê Gia Huy\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910202-Lê Gia Huy\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910202-Lê Gia Huy\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910224-Nguyễn Phi Hùng\Lab2_1910224\Bai1_A.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910224-Nguyễn Phi Hùng\Lab2_1910224\Bai1_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910224-Nguyễn Phi Hùng\Lab2_1910224\Bai1_C.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910224-Nguyễn Phi Hùng\Lab2_1910224\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910224-Nguyễn Phi Hùng\Lab2_1910224\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910224-Nguyễn Phi Hùng\Lab2_1910224\Bai4_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910224-Nguyễn Phi Hùng\Lab2_1910224\Bai4_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910238-Nguyễn Duy Khang\Lab2_1910238\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910238-Nguyễn Duy Khang\Lab2_1910238\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910238-Nguyễn Duy Khang\Lab2_1910238\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910238-Nguyễn Duy Khang\Lab2_1910238\Bai2a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910238-Nguyễn Duy Khang\Lab2_1910238\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910238-Nguyễn Duy Khang\Lab2_1910238\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910238-Nguyễn Duy Khang\Lab2_1910238\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910265-Lại Đức Anh Khoa\Lab2_1910265\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910265-Lại Đức Anh Khoa\Lab2_1910265\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910265-Lại Đức Anh Khoa\Lab2_1910265\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910265-Lại Đức Anh Khoa\Lab2_1910265\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910265-Lại Đức Anh Khoa\Lab2_1910265\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910265-Lại Đức Anh Khoa\Lab2_1910265\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910265-Lại Đức Anh Khoa\Lab2_1910265\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910298-Nguyễn Hoàng Lâm\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910298-Nguyễn Hoàng Lâm\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910298-Nguyễn Hoàng Lâm\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910298-Nguyễn Hoàng Lâm\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910298-Nguyễn Hoàng Lâm\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910298-Nguyễn Hoàng Lâm\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910298-Nguyễn Hoàng Lâm\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910339-Lê Hữu Đức Minh\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910339-Lê Hữu Đức Minh\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910339-Lê Hữu Đức Minh\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910339-Lê Hữu Đức Minh\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910339-Lê Hữu Đức Minh\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910339-Lê Hữu Đức Minh\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910339-Lê Hữu Đức Minh\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910346-Phạm Nhật Minh\baitap1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910346-Phạm Nhật Minh\baitap1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910346-Phạm Nhật Minh\baitap1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910346-Phạm Nhật Minh\baitap2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910346-Phạm Nhật Minh\baitap3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910346-Phạm Nhật Minh\baitap4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910346-Phạm Nhật Minh\baitap4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910347-TrầN Lê Công Minh\Lab2_1910347\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910347-TrầN Lê Công Minh\Lab2_1910347\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910347-TrầN Lê Công Minh\Lab2_1910347\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910347-TrầN Lê Công Minh\Lab2_1910347\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910347-TrầN Lê Công Minh\Lab2_1910347\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910347-TrầN Lê Công Minh\Lab2_1910347\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910347-TrầN Lê Công Minh\Lab2_1910347\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910351-Đặng Nguyễn Xuân Nam\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910351-Đặng Nguyễn Xuân Nam\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910351-Đặng Nguyễn Xuân Nam\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910351-Đặng Nguyễn Xuân Nam\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910351-Đặng Nguyễn Xuân Nam\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910351-Đặng Nguyễn Xuân Nam\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910351-Đặng Nguyễn Xuân Nam\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910402-Lê Ngọc Minh Nhân\Bai1.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910402-Lê Ngọc Minh Nhân\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910402-Lê Ngọc Minh Nhân\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910402-Lê Ngọc Minh Nhân\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910402-Lê Ngọc Minh Nhân\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910402-Lê Ngọc Minh Nhân\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910402-Lê Ngọc Minh Nhân\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910409-Võ Nguyễn Thiện Nhân\Lab2_1910409\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910409-Võ Nguyễn Thiện Nhân\Lab2_1910409\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910409-Võ Nguyễn Thiện Nhân\Lab2_1910409\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910409-Võ Nguyễn Thiện Nhân\Lab2_1910409\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910409-Võ Nguyễn Thiện Nhân\Lab2_1910409\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910409-Võ Nguyễn Thiện Nhân\Lab2_1910409\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910409-Võ Nguyễn Thiện Nhân\Lab2_1910409\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910473-Trương Vĩnh Phước\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910473-Trương Vĩnh Phước\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910473-Trương Vĩnh Phước\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910473-Trương Vĩnh Phước\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910473-Trương Vĩnh Phước\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910473-Trương Vĩnh Phước\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910473-Trương Vĩnh Phước\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910563-Huỳnh Đức Thịnh\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910563-Huỳnh Đức Thịnh\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910563-Huỳnh Đức Thịnh\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910563-Huỳnh Đức Thịnh\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910563-Huỳnh Đức Thịnh\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910563-Huỳnh Đức Thịnh\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910563-Huỳnh Đức Thịnh\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910565-Nguyễn Phúc Thịnh\Lab2_1910565\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910565-Nguyễn Phúc Thịnh\Lab2_1910565\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910565-Nguyễn Phúc Thịnh\Lab2_1910565\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910565-Nguyễn Phúc Thịnh\Lab2_1910565\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910565-Nguyễn Phúc Thịnh\Lab2_1910565\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910565-Nguyễn Phúc Thịnh\Lab2_1910565\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910565-Nguyễn Phúc Thịnh\Lab2_1910565\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910617-Nguyễn Thanh Toàn\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910617-Nguyễn Thanh Toàn\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910617-Nguyễn Thanh Toàn\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910617-Nguyễn Thanh Toàn\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910617-Nguyễn Thanh Toàn\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910617-Nguyễn Thanh Toàn\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910617-Nguyễn Thanh Toàn\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910620-Nguyễn Kim Phương Trang\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910620-Nguyễn Kim Phương Trang\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910620-Nguyễn Kim Phương Trang\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910620-Nguyễn Kim Phương Trang\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910620-Nguyễn Kim Phương Trang\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910620-Nguyễn Kim Phương Trang\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910620-Nguyễn Kim Phương Trang\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910643-Nguyễn Chí Trung\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910643-Nguyễn Chí Trung\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910643-Nguyễn Chí Trung\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910643-Nguyễn Chí Trung\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910643-Nguyễn Chí Trung\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910643-Nguyễn Chí Trung\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910643-Nguyễn Chí Trung\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910644-Nguyễn Hoàng Trung\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910644-Nguyễn Hoàng Trung\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910644-Nguyễn Hoàng Trung\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910644-Nguyễn Hoàng Trung\Bai2a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910644-Nguyễn Hoàng Trung\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910644-Nguyễn Hoàng Trung\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910644-Nguyễn Hoàng Trung\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910650-Nguyễn Ngô Thanh Trúc\Lab2_1910650\Bai1.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910650-Nguyễn Ngô Thanh Trúc\Lab2_1910650\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910650-Nguyễn Ngô Thanh Trúc\Lab2_1910650\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910650-Nguyễn Ngô Thanh Trúc\Lab2_1910650\Bai4.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910663-Quách Minh Tuấn\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910663-Quách Minh Tuấn\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910663-Quách Minh Tuấn\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910663-Quách Minh Tuấn\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910663-Quách Minh Tuấn\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910663-Quách Minh Tuấn\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910663-Quách Minh Tuấn\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910666-Trần Trung Tuấn\Lab2_1910666\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910666-Trần Trung Tuấn\Lab2_1910666\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910666-Trần Trung Tuấn\Lab2_1910666\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910666-Trần Trung Tuấn\Lab2_1910666\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910666-Trần Trung Tuấn\Lab2_1910666\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910666-Trần Trung Tuấn\Lab2_1910666\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910666-Trần Trung Tuấn\Lab2_1910666\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910735-Thái Khắc Đức An\Lab2_1910735\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910735-Thái Khắc Đức An\Lab2_1910735\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910735-Thái Khắc Đức An\Lab2_1910735\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910735-Thái Khắc Đức An\Lab2_1910735\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910735-Thái Khắc Đức An\Lab2_1910735\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910735-Thái Khắc Đức An\Lab2_1910735\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910735-Thái Khắc Đức An\Lab2_1910735\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910752-Lê Hoàng Anh\Lab2_1910752\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910752-Lê Hoàng Anh\Lab2_1910752\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910752-Lê Hoàng Anh\Lab2_1910752\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910752-Lê Hoàng Anh\Lab2_1910752\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910752-Lê Hoàng Anh\Lab2_1910752\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910752-Lê Hoàng Anh\Lab2_1910752\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910752-Lê Hoàng Anh\Lab2_1910752\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910865-Nguyễn Hoàng Minh Châu\Lab2_1910865\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910865-Nguyễn Hoàng Minh Châu\Lab2_1910865\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910865-Nguyễn Hoàng Minh Châu\Lab2_1910865\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910865-Nguyễn Hoàng Minh Châu\Lab2_1910865\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910865-Nguyễn Hoàng Minh Châu\Lab2_1910865\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910865-Nguyễn Hoàng Minh Châu\Lab2_1910865\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910865-Nguyễn Hoàng Minh Châu\Lab2_1910865\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910892-Đỗ Đình Cường\Lab2_1910892\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910892-Đỗ Đình Cường\Lab2_1910892\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910892-Đỗ Đình Cường\Lab2_1910892\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910892-Đỗ Đình Cường\Lab2_1910892\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910892-Đỗ Đình Cường\Lab2_1910892\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910892-Đỗ Đình Cường\Lab2_1910892\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910892-Đỗ Đình Cường\Lab2_1910892\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910916-Nguyễn Hồng Dân\Lab2_1910916\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910916-Nguyễn Hồng Dân\Lab2_1910916\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910916-Nguyễn Hồng Dân\Lab2_1910916\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910916-Nguyễn Hồng Dân\Lab2_1910916\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910916-Nguyễn Hồng Dân\Lab2_1910916\Bai3a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910916-Nguyễn Hồng Dân\Lab2_1910916\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910916-Nguyễn Hồng Dân\Lab2_1910916\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910984-Võ Văn Tiến Dũng\Lab2_1910984\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910984-Võ Văn Tiến Dũng\Lab2_1910984\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910984-Võ Văn Tiến Dũng\Lab2_1910984\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910984-Võ Văn Tiến Dũng\Lab2_1910984\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910984-Võ Văn Tiến Dũng\Lab2_1910984\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910984-Võ Văn Tiến Dũng\Lab2_1910984\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1910984-Võ Văn Tiến Dũng\Lab2_1910984\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911000-Đào Xuân Đạt\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911000-Đào Xuân Đạt\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911000-Đào Xuân Đạt\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911000-Đào Xuân Đạt\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911000-Đào Xuân Đạt\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911000-Đào Xuân Đạt\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911000-Đào Xuân Đạt\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911015-Nguyễn Tấn Đạt\Lab3_1911015\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911015-Nguyễn Tấn Đạt\Lab3_1911015\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911015-Nguyễn Tấn Đạt\Lab3_1911015\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911015-Nguyễn Tấn Đạt\Lab3_1911015\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911015-Nguyễn Tấn Đạt\Lab3_1911015\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911015-Nguyễn Tấn Đạt\Lab3_1911015\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911015-Nguyễn Tấn Đạt\Lab3_1911015\Bài1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911044-Nguyễn Trường Hải Đăng\Lab2_MSSV\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911044-Nguyễn Trường Hải Đăng\Lab2_MSSV\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911044-Nguyễn Trường Hải Đăng\Lab2_MSSV\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911044-Nguyễn Trường Hải Đăng\Lab2_MSSV\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911044-Nguyễn Trường Hải Đăng\Lab2_MSSV\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911044-Nguyễn Trường Hải Đăng\Lab2_MSSV\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911044-Nguyễn Trường Hải Đăng\Lab2_MSSV\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911056-Hà Minh Đức\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911056-Hà Minh Đức\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911056-Hà Minh Đức\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911056-Hà Minh Đức\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911056-Hà Minh Đức\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911056-Hà Minh Đức\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911056-Hà Minh Đức\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911058-Lê Hồng Đức\Lab2_1911058\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911058-Lê Hồng Đức\Lab2_1911058\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911058-Lê Hồng Đức\Lab2_1911058\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911058-Lê Hồng Đức\Lab2_1911058\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911058-Lê Hồng Đức\Lab2_1911058\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911058-Lê Hồng Đức\Lab2_1911058\bai4.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911058-Lê Hồng Đức\Lab2_1911058\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911105-Trần Đình Gia Hải\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911105-Trần Đình Gia Hải\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911105-Trần Đình Gia Hải\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911105-Trần Đình Gia Hải\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911105-Trần Đình Gia Hải\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911105-Trần Đình Gia Hải\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911105-Trần Đình Gia Hải\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911110-Trần An Hạ\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911110-Trần An Hạ\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911110-Trần An Hạ\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911110-Trần An Hạ\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911110-Trần An Hạ\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911110-Trần An Hạ\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911110-Trần An Hạ\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911136-Phạm Ngọc Hậu\Lab2_1911136\Bai_1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911136-Phạm Ngọc Hậu\Lab2_1911136\Bai_1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911136-Phạm Ngọc Hậu\Lab2_1911136\Bai_1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911136-Phạm Ngọc Hậu\Lab2_1911136\Bai_2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911136-Phạm Ngọc Hậu\Lab2_1911136\Bai_3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911136-Phạm Ngọc Hậu\Lab2_1911136\Bai_4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911136-Phạm Ngọc Hậu\Lab2_1911136\Bai_4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911185-Trương Hồng Hoa\Lab2_1911185\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911185-Trương Hồng Hoa\Lab2_1911185\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911185-Trương Hồng Hoa\Lab2_1911185\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911185-Trương Hồng Hoa\Lab2_1911185\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911185-Trương Hồng Hoa\Lab2_1911185\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911185-Trương Hồng Hoa\Lab2_1911185\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911185-Trương Hồng Hoa\Lab2_1911185\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911186-Lê Viết Hoà\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911186-Lê Viết Hoà\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911186-Lê Viết Hoà\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911186-Lê Viết Hoà\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911186-Lê Viết Hoà\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911186-Lê Viết Hoà\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911186-Lê Viết Hoà\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911197-Nguyễn Huy Hoàng\Lab2_1911197\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911197-Nguyễn Huy Hoàng\Lab2_1911197\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911197-Nguyễn Huy Hoàng\Lab2_1911197\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911197-Nguyễn Huy Hoàng\Lab2_1911197\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911197-Nguyễn Huy Hoàng\Lab2_1911197\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911197-Nguyễn Huy Hoàng\Lab2_1911197\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911197-Nguyễn Huy Hoàng\Lab2_1911197\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911207-Trương Việt Hoàng\Lab2_1911207\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911207-Trương Việt Hoàng\Lab2_1911207\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911207-Trương Việt Hoàng\Lab2_1911207\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911207-Trương Việt Hoàng\Lab2_1911207\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911207-Trương Việt Hoàng\Lab2_1911207\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911207-Trương Việt Hoàng\Lab2_1911207\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911207-Trương Việt Hoàng\Lab2_1911207\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911217-Trần Phạm Thái Hòa\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911217-Trần Phạm Thái Hòa\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911217-Trần Phạm Thái Hòa\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911217-Trần Phạm Thái Hòa\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911217-Trần Phạm Thái Hòa\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911217-Trần Phạm Thái Hòa\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911217-Trần Phạm Thái Hòa\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911262-Trần Quang Huy\Lab2_1911262\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911262-Trần Quang Huy\Lab2_1911262\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911262-Trần Quang Huy\Lab2_1911262\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911262-Trần Quang Huy\Lab2_1911262\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911262-Trần Quang Huy\Lab2_1911262\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911262-Trần Quang Huy\Lab2_1911262\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911262-Trần Quang Huy\Lab2_1911262\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911283-Lê Mạnh Hùng\Lab2_1911283\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911283-Lê Mạnh Hùng\Lab2_1911283\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911283-Lê Mạnh Hùng\Lab2_1911283\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911283-Lê Mạnh Hùng\Lab2_1911283\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911283-Lê Mạnh Hùng\Lab2_1911283\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911283-Lê Mạnh Hùng\Lab2_1911283\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911283-Lê Mạnh Hùng\Lab2_1911283\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911296-Đặng Phước Vĩnh Hưng\Lab2_1911296\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911296-Đặng Phước Vĩnh Hưng\Lab2_1911296\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911296-Đặng Phước Vĩnh Hưng\Lab2_1911296\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911296-Đặng Phước Vĩnh Hưng\Lab2_1911296\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911296-Đặng Phước Vĩnh Hưng\Lab2_1911296\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911296-Đặng Phước Vĩnh Hưng\Lab2_1911296\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911296-Đặng Phước Vĩnh Hưng\Lab2_1911296\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911314-Lương Thị Quỳnh Hương\Lab2_1911314\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911314-Lương Thị Quỳnh Hương\Lab2_1911314\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911314-Lương Thị Quỳnh Hương\Lab2_1911314\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911314-Lương Thị Quỳnh Hương\Lab2_1911314\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911314-Lương Thị Quỳnh Hương\Lab2_1911314\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911314-Lương Thị Quỳnh Hương\Lab2_1911314\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911314-Lương Thị Quỳnh Hương\Lab2_1911314\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911363-Lê Bảo Khánh\Lab2_1911363\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911363-Lê Bảo Khánh\Lab2_1911363\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911363-Lê Bảo Khánh\Lab2_1911363\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911363-Lê Bảo Khánh\Lab2_1911363\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911363-Lê Bảo Khánh\Lab2_1911363\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911363-Lê Bảo Khánh\Lab2_1911363\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911363-Lê Bảo Khánh\Lab2_1911363\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911456-Nguyễn Anh Kiệt\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911456-Nguyễn Anh Kiệt\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911456-Nguyễn Anh Kiệt\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911456-Nguyễn Anh Kiệt\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911456-Nguyễn Anh Kiệt\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911456-Nguyễn Anh Kiệt\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911456-Nguyễn Anh Kiệt\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911478-Trần Nguyên Lâm\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911478-Trần Nguyên Lâm\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911478-Trần Nguyên Lâm\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911478-Trần Nguyên Lâm\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911478-Trần Nguyên Lâm\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911478-Trần Nguyên Lâm\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911478-Trần Nguyên Lâm\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911520-Nguyễn Vương Long\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911520-Nguyễn Vương Long\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911520-Nguyễn Vương Long\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911520-Nguyễn Vương Long\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911520-Nguyễn Vương Long\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911520-Nguyễn Vương Long\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911520-Nguyễn Vương Long\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911530-Nguyễn Kim Lộc\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911530-Nguyễn Kim Lộc\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911530-Nguyễn Kim Lộc\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911530-Nguyễn Kim Lộc\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911530-Nguyễn Kim Lộc\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911530-Nguyễn Kim Lộc\bai4.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911530-Nguyễn Kim Lộc\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911561-Lê Công Lực\Bai1A.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911561-Lê Công Lực\Bai1B.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911561-Lê Công Lực\Bai1C.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911561-Lê Công Lực\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911561-Lê Công Lực\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911561-Lê Công Lực\Bai4A.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911561-Lê Công Lực\Bai4B.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911565-Cao Thị Thanh Mai\Lab2_1911565\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911565-Cao Thị Thanh Mai\Lab2_1911565\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911565-Cao Thị Thanh Mai\Lab2_1911565\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911565-Cao Thị Thanh Mai\Lab2_1911565\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911565-Cao Thị Thanh Mai\Lab2_1911565\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911565-Cao Thị Thanh Mai\Lab2_1911565\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911565-Cao Thị Thanh Mai\Lab2_1911565\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911569-Nguyễn Thị Thanh Mai\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911569-Nguyễn Thị Thanh Mai\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911569-Nguyễn Thị Thanh Mai\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911569-Nguyễn Thị Thanh Mai\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911569-Nguyễn Thị Thanh Mai\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911569-Nguyễn Thị Thanh Mai\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911569-Nguyễn Thị Thanh Mai\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911591-Đỗ Quang Minh\LAB2_1911591\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911591-Đỗ Quang Minh\LAB2_1911591\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911591-Đỗ Quang Minh\LAB2_1911591\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911591-Đỗ Quang Minh\LAB2_1911591\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911591-Đỗ Quang Minh\LAB2_1911591\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911591-Đỗ Quang Minh\LAB2_1911591\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911591-Đỗ Quang Minh\LAB2_1911591\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911594-Hoàng Đăng Minh\lab2_1911594\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911594-Hoàng Đăng Minh\lab2_1911594\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911594-Hoàng Đăng Minh\lab2_1911594\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911594-Hoàng Đăng Minh\lab2_1911594\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911594-Hoàng Đăng Minh\lab2_1911594\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911594-Hoàng Đăng Minh\lab2_1911594\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911594-Hoàng Đăng Minh\lab2_1911594\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911650-Nguyễn Thọ Nam\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911650-Nguyễn Thọ Nam\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911650-Nguyễn Thọ Nam\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911650-Nguyễn Thọ Nam\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911650-Nguyễn Thọ Nam\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911650-Nguyễn Thọ Nam\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911650-Nguyễn Thọ Nam\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911704-Nguyễn Thủy Ngọc\Lab2_1911704\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911704-Nguyễn Thủy Ngọc\Lab2_1911704\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911704-Nguyễn Thủy Ngọc\Lab2_1911704\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911704-Nguyễn Thủy Ngọc\Lab2_1911704\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911704-Nguyễn Thủy Ngọc\Lab2_1911704\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911704-Nguyễn Thủy Ngọc\Lab2_1911704\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911704-Nguyễn Thủy Ngọc\Lab2_1911704\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911736-Võ Trịnh Xuân Nguyên\Lab2_1911736\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911736-Võ Trịnh Xuân Nguyên\Lab2_1911736\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911736-Võ Trịnh Xuân Nguyên\Lab2_1911736\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911736-Võ Trịnh Xuân Nguyên\Lab2_1911736\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911736-Võ Trịnh Xuân Nguyên\Lab2_1911736\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911736-Võ Trịnh Xuân Nguyên\Lab2_1911736\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911736-Võ Trịnh Xuân Nguyên\Lab2_1911736\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911796-Nguyễn Hoàng Nhiên\Lap2_1911796\Bai1_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911796-Nguyễn Hoàng Nhiên\Lap2_1911796\Bai1_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911796-Nguyễn Hoàng Nhiên\Lap2_1911796\Bai1_c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911796-Nguyễn Hoàng Nhiên\Lap2_1911796\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911796-Nguyễn Hoàng Nhiên\Lap2_1911796\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911796-Nguyễn Hoàng Nhiên\Lap2_1911796\Bai4_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911796-Nguyễn Hoàng Nhiên\Lap2_1911796\Bai4_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911837-Chung Đông Phong\Lab2_1911837\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911837-Chung Đông Phong\Lab2_1911837\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911837-Chung Đông Phong\Lab2_1911837\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911837-Chung Đông Phong\Lab2_1911837\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911837-Chung Đông Phong\Lab2_1911837\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911837-Chung Đông Phong\Lab2_1911837\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911837-Chung Đông Phong\Lab2_1911837\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911841-Nguyễn Trung Phong\MIPS ISA Arithmetic[week2]\Bai1_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911841-Nguyễn Trung Phong\MIPS ISA Arithmetic[week2]\Bai1_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911841-Nguyễn Trung Phong\MIPS ISA Arithmetic[week2]\Bai1_c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911841-Nguyễn Trung Phong\MIPS ISA Arithmetic[week2]\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911841-Nguyễn Trung Phong\MIPS ISA Arithmetic[week2]\Bai4.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911841-Nguyễn Trung Phong\MIPS ISA Arithmetic[week2]\Bai4_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911841-Nguyễn Trung Phong\MIPS ISA Arithmetic[week2]\HelloWorld.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911878-Trịnh Minh Phúc\Lab2_1911878\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911878-Trịnh Minh Phúc\Lab2_1911878\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911878-Trịnh Minh Phúc\Lab2_1911878\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911878-Trịnh Minh Phúc\Lab2_1911878\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911878-Trịnh Minh Phúc\Lab2_1911878\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911878-Trịnh Minh Phúc\Lab2_1911878\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911878-Trịnh Minh Phúc\Lab2_1911878\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911881-Võ Hồng Phúc\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911881-Võ Hồng Phúc\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911881-Võ Hồng Phúc\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911881-Võ Hồng Phúc\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911881-Võ Hồng Phúc\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911881-Võ Hồng Phúc\Bai4.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911881-Võ Hồng Phúc\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911900-Đinh Gia Quang\Bai1_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911900-Đinh Gia Quang\Bai1_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911900-Đinh Gia Quang\Bai1_c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911900-Đinh Gia Quang\Bai2_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911900-Đinh Gia Quang\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911900-Đinh Gia Quang\Bai4_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911900-Đinh Gia Quang\Bai4_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911907-Nguyễn Văn Vinh Quang\Lab2_1911907\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911907-Nguyễn Văn Vinh Quang\Lab2_1911907\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911907-Nguyễn Văn Vinh Quang\Lab2_1911907\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911907-Nguyễn Văn Vinh Quang\Lab2_1911907\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911907-Nguyễn Văn Vinh Quang\Lab2_1911907\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911907-Nguyễn Văn Vinh Quang\Lab2_1911907\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911907-Nguyễn Văn Vinh Quang\Lab2_1911907\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911975-Hoàng Công Sơn\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911975-Hoàng Công Sơn\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911975-Hoàng Công Sơn\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911975-Hoàng Công Sơn\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911975-Hoàng Công Sơn\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911975-Hoàng Công Sơn\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911975-Hoàng Công Sơn\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911978-Nguyễn Cao Sơn\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911978-Nguyễn Cao Sơn\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911978-Nguyễn Cao Sơn\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911978-Nguyễn Cao Sơn\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911978-Nguyễn Cao Sơn\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911978-Nguyễn Cao Sơn\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1911978-Nguyễn Cao Sơn\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912041-Võ Đình Thanh\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912041-Võ Đình Thanh\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912041-Võ Đình Thanh\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912041-Võ Đình Thanh\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912041-Võ Đình Thanh\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912041-Võ Đình Thanh\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912041-Võ Đình Thanh\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912056-Ngô Phúc Thành\Lab2_1912056\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912056-Ngô Phúc Thành\Lab2_1912056\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912056-Ngô Phúc Thành\Lab2_1912056\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912056-Ngô Phúc Thành\Lab2_1912056\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912056-Ngô Phúc Thành\Lab2_1912056\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912056-Ngô Phúc Thành\Lab2_1912056\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912056-Ngô Phúc Thành\Lab2_1912056\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912084-Đặng Quốc Thắng\bai1.1.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912084-Đặng Quốc Thắng\bai1.2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912084-Đặng Quốc Thắng\bai1.3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912084-Đặng Quốc Thắng\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912084-Đặng Quốc Thắng\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912084-Đặng Quốc Thắng\bai4.1.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912084-Đặng Quốc Thắng\bai4.2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912123-Lê Trần Hoàng Thịnh\lab2_1912123\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912123-Lê Trần Hoàng Thịnh\lab2_1912123\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912123-Lê Trần Hoàng Thịnh\lab2_1912123\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912123-Lê Trần Hoàng Thịnh\lab2_1912123\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912123-Lê Trần Hoàng Thịnh\lab2_1912123\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912123-Lê Trần Hoàng Thịnh\lab2_1912123\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912123-Lê Trần Hoàng Thịnh\lab2_1912123\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912184-Nguyễn Hoài Thương\ Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912184-Nguyễn Hoài Thương\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912184-Nguyễn Hoài Thương\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912184-Nguyễn Hoài Thương\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912184-Nguyễn Hoài Thương\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912184-Nguyễn Hoài Thương\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912184-Nguyễn Hoài Thương\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912190-Nguyễn Mai Thy\Lab2_1912190\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912190-Nguyễn Mai Thy\Lab2_1912190\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912190-Nguyễn Mai Thy\Lab2_1912190\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912190-Nguyễn Mai Thy\Lab2_1912190\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912190-Nguyễn Mai Thy\Lab2_1912190\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912190-Nguyễn Mai Thy\Lab2_1912190\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912190-Nguyễn Mai Thy\Lab2_1912190\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912237-Trần Hoàng Công Toại\Lab2_1912237\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912237-Trần Hoàng Công Toại\Lab2_1912237\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912237-Trần Hoàng Công Toại\Lab2_1912237\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912237-Trần Hoàng Công Toại\Lab2_1912237\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912237-Trần Hoàng Công Toại\Lab2_1912237\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912237-Trần Hoàng Công Toại\Lab2_1912237\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912237-Trần Hoàng Công Toại\Lab2_1912237\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912267-Đinh Lệ Trân\Lab2_1912267\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912267-Đinh Lệ Trân\Lab2_1912267\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912267-Đinh Lệ Trân\Lab2_1912267\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912267-Đinh Lệ Trân\Lab2_1912267\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912267-Đinh Lệ Trân\Lab2_1912267\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912267-Đinh Lệ Trân\Lab2_1912267\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912267-Đinh Lệ Trân\Lab2_1912267\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912288-Hồ Đức Trí\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912288-Hồ Đức Trí\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912288-Hồ Đức Trí\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912288-Hồ Đức Trí\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912288-Hồ Đức Trí\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912288-Hồ Đức Trí\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912288-Hồ Đức Trí\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912371-Trịnh Nguyên Bảo Tuấn\Lab2_1912371\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912371-Trịnh Nguyên Bảo Tuấn\Lab2_1912371\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912371-Trịnh Nguyên Bảo Tuấn\Lab2_1912371\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912371-Trịnh Nguyên Bảo Tuấn\Lab2_1912371\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912371-Trịnh Nguyên Bảo Tuấn\Lab2_1912371\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912371-Trịnh Nguyên Bảo Tuấn\Lab2_1912371\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912371-Trịnh Nguyên Bảo Tuấn\Lab2_1912371\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912384-Nguyễn Đăng Tú\Lab2_1912384\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912384-Nguyễn Đăng Tú\Lab2_1912384\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912384-Nguyễn Đăng Tú\Lab2_1912384\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912384-Nguyễn Đăng Tú\Lab2_1912384\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912384-Nguyễn Đăng Tú\Lab2_1912384\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912384-Nguyễn Đăng Tú\Lab2_1912384\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912384-Nguyễn Đăng Tú\Lab2_1912384\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912410-Nguyễn Duy Uyên\bai1_1.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912410-Nguyễn Duy Uyên\bai1_2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912410-Nguyễn Duy Uyên\bai1_3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912410-Nguyễn Duy Uyên\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912410-Nguyễn Duy Uyên\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912410-Nguyễn Duy Uyên\bai4_1.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912410-Nguyễn Duy Uyên\bai4_2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912457-Mai Hoàng Anh Vũ\Lab2_1912457\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912457-Mai Hoàng Anh Vũ\Lab2_1912457\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912457-Mai Hoàng Anh Vũ\Lab2_1912457\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912457-Mai Hoàng Anh Vũ\Lab2_1912457\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912457-Mai Hoàng Anh Vũ\Lab2_1912457\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912457-Mai Hoàng Anh Vũ\Lab2_1912457\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912457-Mai Hoàng Anh Vũ\Lab2_1912457\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912463-Phạm Hoàng Vũ\Lab2.1\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912463-Phạm Hoàng Vũ\Lab2.1\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912463-Phạm Hoàng Vũ\Lab2.1\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912463-Phạm Hoàng Vũ\Lab2.1\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912463-Phạm Hoàng Vũ\Lab2.1\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912463-Phạm Hoàng Vũ\Lab2.1\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912463-Phạm Hoàng Vũ\Lab2.1\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912677-Nguyễn Ngô Gia Bảo\Lab2_1912677\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912677-Nguyễn Ngô Gia Bảo\Lab2_1912677\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912677-Nguyễn Ngô Gia Bảo\Lab2_1912677\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912677-Nguyễn Ngô Gia Bảo\Lab2_1912677\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912677-Nguyễn Ngô Gia Bảo\Lab2_1912677\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912677-Nguyễn Ngô Gia Bảo\Lab2_1912677\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912677-Nguyễn Ngô Gia Bảo\Lab2_1912677\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912683-Nguyễn Thiên Bảo\Lab2_1912683\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912683-Nguyễn Thiên Bảo\Lab2_1912683\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912683-Nguyễn Thiên Bảo\Lab2_1912683\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912683-Nguyễn Thiên Bảo\Lab2_1912683\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912683-Nguyễn Thiên Bảo\Lab2_1912683\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912683-Nguyễn Thiên Bảo\Lab2_1912683\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912683-Nguyễn Thiên Bảo\Lab2_1912683\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912705-Nguyễn Thị Duyên Bằng\Lab2_1912705\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912705-Nguyễn Thị Duyên Bằng\Lab2_1912705\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912705-Nguyễn Thị Duyên Bằng\Lab2_1912705\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912705-Nguyễn Thị Duyên Bằng\Lab2_1912705\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912705-Nguyễn Thị Duyên Bằng\Lab2_1912705\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912705-Nguyễn Thị Duyên Bằng\Lab2_1912705\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912705-Nguyễn Thị Duyên Bằng\Lab2_1912705\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912793-Lê Minh Chuẩn\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1912793-Lê Minh Chuẩn\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913026-Huỳnh Tuấn Đạt\ba1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913026-Huỳnh Tuấn Đạt\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913026-Huỳnh Tuấn Đạt\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913026-Huỳnh Tuấn Đạt\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913026-Huỳnh Tuấn Đạt\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913026-Huỳnh Tuấn Đạt\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913026-Huỳnh Tuấn Đạt\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913167-Nguyễn Việt Đức\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913167-Nguyễn Việt Đức\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913167-Nguyễn Việt Đức\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913167-Nguyễn Việt Đức\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913167-Nguyễn Việt Đức\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913167-Nguyễn Việt Đức\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913167-Nguyễn Việt Đức\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913328-Hoàng Văn Hiếu\lab2_1913328\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913328-Hoàng Văn Hiếu\lab2_1913328\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913328-Hoàng Văn Hiếu\lab2_1913328\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913328-Hoàng Văn Hiếu\lab2_1913328\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913328-Hoàng Văn Hiếu\lab2_1913328\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913328-Hoàng Văn Hiếu\lab2_1913328\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913328-Hoàng Văn Hiếu\lab2_1913328\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913334-Lê Trung Hiếu\Lab2_1913334\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913334-Lê Trung Hiếu\Lab2_1913334\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913334-Lê Trung Hiếu\Lab2_1913334\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913334-Lê Trung Hiếu\Lab2_1913334\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913334-Lê Trung Hiếu\Lab2_1913334\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913334-Lê Trung Hiếu\Lab2_1913334\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913334-Lê Trung Hiếu\Lab2_1913334\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913386-Nguyễn Minh Hiển\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913386-Nguyễn Minh Hiển\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913386-Nguyễn Minh Hiển\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913386-Nguyễn Minh Hiển\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913386-Nguyễn Minh Hiển\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913386-Nguyễn Minh Hiển\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913386-Nguyễn Minh Hiển\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913464-Vũ Huy Hoàng\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913464-Vũ Huy Hoàng\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913464-Vũ Huy Hoàng\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913464-Vũ Huy Hoàng\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913464-Vũ Huy Hoàng\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913464-Vũ Huy Hoàng\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913464-Vũ Huy Hoàng\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913579-Vũ Quốc Huy\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913579-Vũ Quốc Huy\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913579-Vũ Quốc Huy\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913579-Vũ Quốc Huy\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913579-Vũ Quốc Huy\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913579-Vũ Quốc Huy\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913579-Vũ Quốc Huy\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913764-Trần Quang Khả\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913764-Trần Quang Khả\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913764-Trần Quang Khả\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913764-Trần Quang Khả\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913764-Trần Quang Khả\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913764-Trần Quang Khả\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913764-Trần Quang Khả\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913918-Nguyễn Hoàng Lâm\mips1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913918-Nguyễn Hoàng Lâm\mips1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913918-Nguyễn Hoàng Lâm\mips1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913918-Nguyễn Hoàng Lâm\mips2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913918-Nguyễn Hoàng Lâm\mips3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913918-Nguyễn Hoàng Lâm\mips4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913949-Nguyễn Thái Linh\Lab2_1913949\bai1_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913949-Nguyễn Thái Linh\Lab2_1913949\bai1_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913949-Nguyễn Thái Linh\Lab2_1913949\bai1_c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913949-Nguyễn Thái Linh\Lab2_1913949\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913949-Nguyễn Thái Linh\Lab2_1913949\bai4_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913949-Nguyễn Thái Linh\Lab2_1913949\bai4_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1913949-Nguyễn Thái Linh\Lab2_1913949\bai_3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914055-Lê Đình Luân\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914055-Lê Đình Luân\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914055-Lê Đình Luân\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914055-Lê Đình Luân\bai2a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914055-Lê Đình Luân\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914055-Lê Đình Luân\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914055-Lê Đình Luân\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914210-Võ Thị Na\mips1.a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914210-Võ Thị Na\mips1.b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914210-Võ Thị Na\mips1.c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914210-Võ Thị Na\mips2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914210-Võ Thị Na\mips3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914210-Võ Thị Na\mips4.a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914210-Võ Thị Na\mips4.b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914227-Nguyễn Hoài Nam\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914227-Nguyễn Hoài Nam\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914227-Nguyễn Hoài Nam\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914227-Nguyễn Hoài Nam\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914227-Nguyễn Hoài Nam\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914227-Nguyễn Hoài Nam\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914227-Nguyễn Hoài Nam\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914291-Phạm Thị Thúy Ngân\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914291-Phạm Thị Thúy Ngân\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914291-Phạm Thị Thúy Ngân\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914291-Phạm Thị Thúy Ngân\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914291-Phạm Thị Thúy Ngân\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914291-Phạm Thị Thúy Ngân\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914291-Phạm Thị Thúy Ngân\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914474-Lê Hồng Nhật\mips1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914474-Lê Hồng Nhật\mips1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914474-Lê Hồng Nhật\mips1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914474-Lê Hồng Nhật\mips2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914474-Lê Hồng Nhật\mips3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914474-Lê Hồng Nhật\mips4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914474-Lê Hồng Nhật\mips4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914651-Hà Lê Thiên Phú\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914651-Hà Lê Thiên Phú\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914651-Hà Lê Thiên Phú\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914651-Hà Lê Thiên Phú\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914651-Hà Lê Thiên Phú\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914651-Hà Lê Thiên Phú\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914651-Hà Lê Thiên Phú\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914674-Vũ Đình Phú\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914674-Vũ Đình Phú\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914674-Vũ Đình Phú\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914674-Vũ Đình Phú\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914674-Vũ Đình Phú\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914674-Vũ Đình Phú\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914674-Vũ Đình Phú\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914830-Nguyễn Lê Minh Quân\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914830-Nguyễn Lê Minh Quân\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914830-Nguyễn Lê Minh Quân\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914830-Nguyễn Lê Minh Quân\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914830-Nguyễn Lê Minh Quân\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914830-Nguyễn Lê Minh Quân\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914830-Nguyễn Lê Minh Quân\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914864-Nguyễn Văn Quốc\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914864-Nguyễn Văn Quốc\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914864-Nguyễn Văn Quốc\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914864-Nguyễn Văn Quốc\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914864-Nguyễn Văn Quốc\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914864-Nguyễn Văn Quốc\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1914864-Nguyễn Văn Quốc\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915016-Trần Phước Tài\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915016-Trần Phước Tài\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915016-Trần Phước Tài\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915016-Trần Phước Tài\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915016-Trần Phước Tài\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915016-Trần Phước Tài\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915016-Trần Phước Tài\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915161-Phạm Phú Thành\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915161-Phạm Phú Thành\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915161-Phạm Phú Thành\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915161-Phạm Phú Thành\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915161-Phạm Phú Thành\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915161-Phạm Phú Thành\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915161-Phạm Phú Thành\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915351-Cao Minh Thông\Athremetic_HM.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915351-Cao Minh Thông\equation.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915351-Cao Minh Thông\loadstore.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915351-Cao Minh Thông\Syscall_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915351-Cao Minh Thông\Syscall_c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915390-Nông Trọng Thuyên\Lab2_1915390\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915390-Nông Trọng Thuyên\Lab2_1915390\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915390-Nông Trọng Thuyên\Lab2_1915390\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915390-Nông Trọng Thuyên\Lab2_1915390\bai2a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915390-Nông Trọng Thuyên\Lab2_1915390\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915442-Lê Đắc Thường\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915442-Lê Đắc Thường\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915442-Lê Đắc Thường\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915442-Lê Đắc Thường\Bai2a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915442-Lê Đắc Thường\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915442-Lê Đắc Thường\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915442-Lê Đắc Thường\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915482-Nguyễn Huỳnh Tiến\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915482-Nguyễn Huỳnh Tiến\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915482-Nguyễn Huỳnh Tiến\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915482-Nguyễn Huỳnh Tiến\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915482-Nguyễn Huỳnh Tiến\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915482-Nguyễn Huỳnh Tiến\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915482-Nguyễn Huỳnh Tiến\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915541-Lê Khánh Toàn\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915541-Lê Khánh Toàn\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915541-Lê Khánh Toàn\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915541-Lê Khánh Toàn\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915541-Lê Khánh Toàn\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915541-Lê Khánh Toàn\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915541-Lê Khánh Toàn\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915656-Ngô Đức Trí\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915656-Ngô Đức Trí\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915656-Ngô Đức Trí\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915656-Ngô Đức Trí\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915656-Ngô Đức Trí\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915656-Ngô Đức Trí\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915656-Ngô Đức Trí\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915666-Trần Quang Trí\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915666-Trần Quang Trí\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915666-Trần Quang Trí\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915666-Trần Quang Trí\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915666-Trần Quang Trí\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915666-Trần Quang Trí\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915666-Trần Quang Trí\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915822-Phan Anh Tú\mips1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915822-Phan Anh Tú\mips1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915822-Phan Anh Tú\mips1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915822-Phan Anh Tú\mips2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915822-Phan Anh Tú\mips3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915822-Phan Anh Tú\mips4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915822-Phan Anh Tú\mips4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915903-Huỳnh Trần Việt\bai1_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915903-Huỳnh Trần Việt\bai1_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915903-Huỳnh Trần Việt\bai1_c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915903-Huỳnh Trần Việt\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915903-Huỳnh Trần Việt\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915903-Huỳnh Trần Việt\bai4_a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915903-Huỳnh Trần Việt\bai4_b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915919-Trần Quốc Việt\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915919-Trần Quốc Việt\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915919-Trần Quốc Việt\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915919-Trần Quốc Việt\Bai2a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915919-Trần Quốc Việt\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915919-Trần Quốc Việt\Bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915919-Trần Quốc Việt\Bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915961-Quang Chấn Vĩ\Bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915961-Quang Chấn Vĩ\Bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915961-Quang Chấn Vĩ\Bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915961-Quang Chấn Vĩ\Bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915961-Quang Chấn Vĩ\Bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1915961-Quang Chấn Vĩ\Bai4.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1920058-Lê Tất Thiện\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1920058-Lê Tất Thiện\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1920058-Lê Tất Thiện\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1920058-Lê Tất Thiện\bai2a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1920058-Lê Tất Thiện\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1920058-Lê Tất Thiện\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1920058-Lê Tất Thiện\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927001-Lê Nhựt Anh\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927001-Lê Nhựt Anh\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927001-Lê Nhựt Anh\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927001-Lê Nhựt Anh\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927001-Lê Nhựt Anh\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927001-Lê Nhựt Anh\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927001-Lê Nhựt Anh\bai4b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927038-Trần Phương Tĩnh\bai1a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927038-Trần Phương Tĩnh\bai1b.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927038-Trần Phương Tĩnh\bai1c.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927038-Trần Phương Tĩnh\bai2.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927038-Trần Phương Tĩnh\bai3.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927038-Trần Phương Tĩnh\bai4a.asm
+C:\Users\Binh Tran\Downloads\KTMTW3\1927038-Trần Phương Tĩnh\bai4b.asm

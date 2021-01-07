@@ -1,0 +1,23 @@
+SUMMARY
+There are 4 answers A
+There are 4 answers B
+There are 5 answers C
+There are 4 answers D
+ABET
+Question: 01, ABET: L.O.4, Answer: D.
+Question: 02, ABET: L.O.4, Answer: A.
+Question: 03, ABET: L.O.4, Answer: B.
+Question: 04, ABET: L.O.4, Answer: A.
+Question: 05, ABET: L.O.4, Answer: C.
+Question: 06, ABET: L.O.4, Answer: B.
+Question: 07, ABET: L.O.4, Answer: C.
+Question: 08, ABET: L.O.4, Answer: D.
+Question: 09, ABET: L.O.4, Answer: A.
+Question: 10, ABET: L.O.4, Answer: B.
+Question: 11, ABET: L.O.2, Answer: C.
+Question: 12, ABET: L.O.2, Answer: B.
+Question: 13, ABET: L.O.2, Answer: C.
+Question: 14, ABET: L.O.2, Answer: A.
+Question: 15, ABET: L.O.2, Answer: C.
+Question: 16, ABET: L.O.2, Answer: D.
+Question: 17, ABET: L.O.2, Answer: D.
