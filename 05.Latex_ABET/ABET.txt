@@ -1,23 +1,46 @@
 SUMMARY
-There are 4 answers A
-There are 4 answers B
-There are 5 answers C
-There are 4 answers D
+There are 9 answers A
+There are 10 answers B
+There are 11 answers C
+There are 10 answers D
 ABET
-Question: 01, ABET: L.O.4, Answer: D.
-Question: 02, ABET: L.O.4, Answer: A.
-Question: 03, ABET: L.O.4, Answer: B.
-Question: 04, ABET: L.O.4, Answer: A.
-Question: 05, ABET: L.O.4, Answer: C.
-Question: 06, ABET: L.O.4, Answer: B.
-Question: 07, ABET: L.O.4, Answer: C.
-Question: 08, ABET: L.O.4, Answer: D.
-Question: 09, ABET: L.O.4, Answer: A.
-Question: 10, ABET: L.O.4, Answer: B.
-Question: 11, ABET: L.O.2, Answer: C.
-Question: 12, ABET: L.O.2, Answer: B.
-Question: 13, ABET: L.O.2, Answer: C.
-Question: 14, ABET: L.O.2, Answer: A.
-Question: 15, ABET: L.O.2, Answer: C.
-Question: 16, ABET: L.O.2, Answer: D.
-Question: 17, ABET: L.O.2, Answer: D.
+Question: 01, ABET: L.O.1, Answer: D.
+Question: 02, ABET: L.O.1, Answer: B.
+Question: 03, ABET: L.O.1, Answer: A.
+Question: 04, ABET: L.O.1, Answer: D.
+Question: 05, ABET: L.O.1, Answer: C.
+Question: 06, ABET: L.O.1, Answer: B.
+Question: 07, ABET: L.O.2, Answer: C.
+Question: 08, ABET: L.O.2, Answer: B.
+Question: 09, ABET: L.O.2, Answer: C.
+Question: 10, ABET: L.O.2, Answer: B.
+Question: 11, ABET: L.O.2, Answer: A.
+Question: 12, ABET: L.O.2, Answer: C.
+Question: 13, ABET: L.O.2, Answer: D.
+Question: 14, ABET: L.O.2, Answer: D.
+Question: 15, ABET: L.O.1, Answer: D.
+Question: 16, ABET: L.O.3, Answer: C.
+Question: 17, ABET: L.O.3, Answer: B.
+Question: 18, ABET: L.O.3, Answer: A.
+Question: 19, ABET: L.O.2, Answer: C.
+Question: 20, ABET: L.O.2, Answer: D.
+Question: 21, ABET: L.O.2, Answer: B.
+Question: 22, ABET: L.O.2, Answer: D.
+Question: 23, ABET: L.O.2, Answer: B.
+Question: 24, ABET: L.O.2, Answer: A.
+Question: 25, ABET: L.O.2, Answer: C.
+Question: 26, ABET: L.O.2, Answer: C.
+Question: 27, ABET: L.O.2, Answer: B.
+Question: 28, ABET: L.O.2, Answer: D.
+Question: 29, ABET: L.O.2, Answer: B.
+Question: 30, ABET: L.O.2, Answer: C.
+Question: 31, ABET: L.O.4, Answer: D.
+Question: 32, ABET: L.O.4, Answer: A.
+Question: 33, ABET: L.O.4, Answer: B.
+Question: 34, ABET: L.O.4, Answer: A.
+Question: 35, ABET: L.O.4, Answer: C.
+Question: 36, ABET: L.O.4, Answer: A.
+Question: 37, ABET: L.O.4, Answer: C.
+Question: 38, ABET: L.O.4, Answer: D.
+Question: 39, ABET: L.O.4, Answer: A.
+Question: 40, ABET: L.O.4, Answer: A.
